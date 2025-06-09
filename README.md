@@ -8,7 +8,7 @@ I'm **Ali Ghassan Yazbeck**, a final-year Computer and Communication Engineering
 
 - Bachelor of Engineering in **Computer and Communication Engineering**  
 - Expected graduation: **2026**  
-- Former Programming Instructor at **BrightCamps Academy** (2 years and 6 months)
+- Former Programming Instructor at **BrightChamps Academy** (2 years and 6 months)
 
 ---
 
