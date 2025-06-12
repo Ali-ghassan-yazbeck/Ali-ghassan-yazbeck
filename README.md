@@ -15,7 +15,7 @@ I'm **Ali Ghassan Yazbeck**, a final-year Computer and Communication Engineering
 ## 💻 Technical Skills
 
 **Languages & Frameworks:**  
-- C++, Python, PHP, JavaScript, HTML, CSS, Assembly
+- C, C++, Python, Java, PHP, JavaScript, HTML, CSS, Assembly
 
 **Web Development:**  
 - Frontend: HTML, CSS, JavaScript  
